@@ -1,0 +1,2 @@
+G:\Code Projects\NET\M2\M2\bin\Release\net9.0\publish\win-x64\M2.pdb
+G:\Code Projects\NET\M2\M2\bin\Release\net9.0\publish\win-x64\M2.exe

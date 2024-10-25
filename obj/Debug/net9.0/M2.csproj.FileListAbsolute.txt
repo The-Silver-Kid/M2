@@ -1,0 +1,14 @@
+G:\Code Projects\NET\M2\M2\bin\Debug\net9.0\M2.exe
+G:\Code Projects\NET\M2\M2\bin\Debug\net9.0\M2.deps.json
+G:\Code Projects\NET\M2\M2\bin\Debug\net9.0\M2.runtimeconfig.json
+G:\Code Projects\NET\M2\M2\bin\Debug\net9.0\M2.dll
+G:\Code Projects\NET\M2\M2\bin\Debug\net9.0\M2.pdb
+G:\Code Projects\NET\M2\M2\obj\Debug\net9.0\M2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code Projects\NET\M2\M2\obj\Debug\net9.0\M2.AssemblyInfoInputs.cache
+G:\Code Projects\NET\M2\M2\obj\Debug\net9.0\M2.AssemblyInfo.cs
+G:\Code Projects\NET\M2\M2\obj\Debug\net9.0\M2.csproj.CoreCompileInputs.cache
+G:\Code Projects\NET\M2\M2\obj\Debug\net9.0\M2.dll
+G:\Code Projects\NET\M2\M2\obj\Debug\net9.0\refint\M2.dll
+G:\Code Projects\NET\M2\M2\obj\Debug\net9.0\M2.pdb
+G:\Code Projects\NET\M2\M2\obj\Debug\net9.0\M2.genruntimeconfig.cache
+G:\Code Projects\NET\M2\M2\obj\Debug\net9.0\ref\M2.dll
